@@ -1,0 +1,9 @@
+Dependencis for To-do backend
+
+	1.	 pydantic: a library for data validation and parsing based on Python type hints. 
+	2.	 sqlalchemy: to link the system with the MYSQL database
+	3.	FastAPI
+	4.	passlib.context to import CryptContext
+	5.	Uvicorn: to compile FastAPI
+	6.	Alembic: database migration toll
+	7.	JWT:  a standard for securely transmitting information between parties as a JSON object.
